@@ -5,6 +5,7 @@ This is a collection of mini python projects created by me while learning.
 
 -Rock-paper-scissor Game
 -Number-guessing Game
+-Quizz
 
 ##Skills I Practiced
 
@@ -14,3 +15,5 @@ This is a collection of mini python projects created by me while learning.
 -Loops
 -Lists
 -Random Modules
+-Functions
+-Dictionaries
